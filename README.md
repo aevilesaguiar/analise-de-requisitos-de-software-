@@ -1,1 +1,0 @@
-# analise-de-requisitos-de-software-
