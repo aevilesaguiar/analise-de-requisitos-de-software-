@@ -62,7 +62,7 @@ Selecione quem você vai entrevistar, foque sempre que possível nos usuários r
 ![image](https://user-images.githubusercontent.com/52088444/233463523-bbdfd177-4ac9-4e4f-8a78-d8043b0b8513.png)
 ![image](https://user-images.githubusercontent.com/52088444/233463569-b8055831-572c-4f78-bd39-d11fa5ca62e1.png)
 
-## Como faço para entender o que o cliente Precisa?
+**Como faço para entender o que o cliente Precisa?
 
 Foque nas perguntas que tenham essas 6 palavras chave:
 - Quem
@@ -98,98 +98,36 @@ Outras formas de entrevistar:
 A ideia é que sempre que possível pegar o máximo de informação do usuário se eles disserem que ele usa uma planilha para calcular x ou y, peça uma cópia dessa planilha.  Se eles têm algum tipo de guia ou algum documento ou algum processo ou um fluxograma, algum diagrama, alguma coisa para resolver uma determinada situação, tente sempre pegar uma cópia desses arquivos reais que eles estão usando pra resolver aquele problema no momento. Porque isso vai te ajudar bastante para uma análise posterior.
 
 Então portanto tente sempre usar questões abertas, que dêem ao entrevistado a oportunidade de explicar a sua resposta com ou outros cenários e exemplos, respostas que te darão bastante valor, não só que seja sim ou não. Então não tenha medo de fazer follow up.
-Sempre faça conversas livre de contexros, fuja de eprguntas que sugerem uma resposta ou que vão tender a um lado ou alguma preferência por exemplo, ao invés de você perguntar: com rápida a pesquisa no site tem que ser?  Você pode perguntar algo como qual tipo de performance desejada. Ou ainda a performance é mais importante algumas partes do sistema? como a primeira pergunta está inserida num contexto de pesquisa. Obviamente que ela não é livre de contexto ela está associada com a pesquisa. Isso não quer dizer que você não possa fazer essas perguntas, vai chegar um momento na entrevista que você vai ter que ser específico. Porém as duas últimas opções elas são mais recomendadas para uma entrevista inicial, porque elas dão ao entrevistado uma gama maior de possibilidades de resposta o que talvez te permite descobrir coisas que pareceriam ocultas se você fosse muito específico logo no começo 
-utra dica importante é focar no problema não na solução
+Sempre faça conversas livre de contexros, fuja de eprguntas que sugerem uma resposta ou que vão tender a um lado ou alguma preferência por exemplo, ao invés de você perguntar: com rápida a pesquisa no site tem que ser?  Você pode perguntar algo como qual tipo de performance desejada. Ou ainda a performance é mais importante algumas partes do sistema? como a primeira pergunta está inserida num contexto de pesquisa. Obviamente que ela não é livre de contexto ela está associada com a pesquisa. Isso não quer dizer que você não possa fazer essas perguntas, vai chegar um momento na entrevista que você vai ter que ser específico. Porém as duas últimas opções elas são mais recomendadas para uma entrevista inicial, porque elas dão ao entrevistado uma gama maior de possibilidades de resposta o que talvez te permite descobrir coisas que pareceriam ocultas se você fosse muito específico logo no começo, outra dica importante é focar no problema e não na solução.
 
-então essa é aquela ideia do foco na dor não no amor.
+![image](https://user-images.githubusercontent.com/52088444/233505144-dd80221d-6787-40cc-92f1-7eb7ac28e5c1.png)
 
-é muito comum durante a entrevista o entrevistado querer focar em como ele resolve um determinado problema
+![image](https://user-images.githubusercontent.com/52088444/233505165-8d53f2c5-5c17-4574-9ed7-ee0a1b432d82.png)
 
-e ficar focando só naquilo como se aquilo ou a maneira como ele está resolvendo aquele problema no momento
 
-fosse a melhor forma de solucionar aquele problema.
 
-Obviamente que é importante entender o como como eles estão resolvendo um problema ou uma situação hoje
+## Tecnica: Questionário
 
-em dia.
+Questionários ou pesquisas tratam-se de formulários criados como forma de se capturar o feedback dos mais diferentes tipos de usuário do sistema. Eles geralmente são usados quando se tem uma grande quantidade de pessoas que irão colaborar com o levantamento dos requisitos e acabam sendo bastante úteis principalmente quando essas pessoas estão espalhadas geograficamente.
 
-Mas digamos que na maioria das vezes a forma como estão resolvendo aquele problema no momento não é
 
-a melhor forma de se resolver no longo tempo.
+Eles não podem ser muito longos, todo mundo está na correria hoje em dia e então tente não criar um questionário com páginas e páginas de pergunta, caso contrário as pessoas não irão preenchê-los. E ao montar um questionário foque em alguns objetivos específicos ou alguma funcionalidade específica que você queira um feedback.
 
-Então entenda que só porque os usuários eles têm um problema não significa que eles são qualificados
+![image](https://user-images.githubusercontent.com/52088444/233506081-b008d3f5-e5d4-4726-bc63-ac613a01ef24.png)
 
-para propor uma solução aquele problema eu sei que há uma controvérsia na famosa frase do rei Folha
 
-sei que diz que se tivesse perguntado o que as pessoas queriam elas diriam que seria cavalos mais rápidos
+Por exemplo o questionário para levantar requisitos use mais questões com respostas abertas do que com respostas pré-determinadas, a não ser para algumas perguntas específicas em que precisa saber se há um padrão acontecendo com os usuários, aí se usa múltipla escolha para poder entabular as resposta.
 
-e mesmo que não haja evidência concreta o que ele disse isso é que a gente não precisa ir muito longe
+E por fim os questionários ou pesquisas elas também podem ser utilizadas para ajudar a ordenar o backlog do produto, assim como auxiliar o processo de decisão de um requisito, de uma  história, se ela fará parte do seu MVP ou não.
 
-pra concordar que isso seria basicamente a resposta daquela das pessoas naquela época.
 
-Portanto não deixe que a solução que as pessoas têm no momento ou o que elas te sugiram se tornem a
+## Técnica: Observação
 
-solução definitiva em forma de software.
+Observação como o nome sugere diz respeito ao fato de você simplesmente observar o usuário final em seu habitat normal, no seu dia a dia.
+Técnica mais poderosa que remove ruídos. 
+![image](https://user-images.githubusercontent.com/52088444/233506189-67ced28d-34ef-4606-8a8c-8f31ed92471f.png)
 
-Bom a próxima técnica que discutiremos é o que acharem.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/52088444/233506390-5cb73bc8-e076-44f1-810d-fe21bdd550cd.png)
 
 
 
