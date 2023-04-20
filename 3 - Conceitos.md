@@ -30,8 +30,22 @@ Essa metáfora ela fundamentada em três níveis o primeiro nível são diferent
 
 ![image](https://user-images.githubusercontent.com/52088444/233193649-58d9c13c-c275-45df-8d97-a2ced9d9523e.png)
 
-A ideia é usar uma malha mais grossa para capturar os requisitos maiores primeiro que podem ser os que
+A ideia é usar uma malha mais grossa para capturar os requisitos maiores, primeiro que podem ser os que vão trazer mais valor para o cliente por exemplo, depois você pode trocar para uma malha média e passar a tarrafa de novo para capturar os requisitos médios, com um pouco menos valor. E finalmente você pode trocar por uma malha fina para capturar o restante dos requisitos.
 
-vão trazer mais valor para o cliente por exemplo.
+![image](https://user-images.githubusercontent.com/52088444/233459747-7773888a-d7c7-40dc-a30c-4fc664402bce.png)
 
-Depois você pode trocar para uma malha média e passar a tarefa de novo para capturar os requisitos médios.
+Segundo,  seriam os peixes morrem assim como os requisitos, então no ambiente ágil o sistema ele cresce e evolui a cada iteração. Obviamente baseado no feed back do cliente então é normal que requisitos que não eram importantes ontem se tornem importantes hoje e vice versa.
+
+Requisitos que eram supostamente importantes no passado se tornam se tornem irrelevantes e até sejam removidos do backlog que seria esse conceito de morrer.
+
+![image](https://user-images.githubusercontent.com/52088444/233460233-4d6faa69-b81d-4c59-983e-e054949d6f00.png)
+
+E o terceiro nível tome cuidado com o quem não é peixe,  então tenha cuidado para não inflar os teus requisitos com coisas que não são relevantes para a entrega de valor ao cliente.
+
+E assim como numa pescaria você talvez perca o requisito, mas isso não não é problema se você está utilizando uma metodologia ágil, haja vista que você terá que tarrafear  essa pesca com uma certa frequência, explorando diferentes áreas do Rio e inclusive diferentes malhas de rede.
+
+Mas por fim então qual a forma correta?
+
+![image](https://user-images.githubusercontent.com/52088444/233460843-12496332-9905-4077-9120-a600aaef2a6a.png)
+
+Dica para você que trabalha em ambientes ágeis, considere que requisitos são como organismos organismos vivos. Eles estão em constante mudança.
