@@ -129,6 +129,22 @@ Técnica mais poderosa que remove ruídos.
 
 ![image](https://user-images.githubusercontent.com/52088444/233506390-5cb73bc8-e076-44f1-810d-fe21bdd550cd.png)
 
+## Workshop para escrever histórias de usuários
+
+Reunião preferencialmente presencial para capturar o máximo de requisitos possíveis. Nessa reunião se deve focar em quantidade e não em qualidade do conteúdo, pois você irá refinar as histórias num futuro. Permita que as ideias fluam, a ideia é criar uma sequencia lógica dos fatos e não telas.
+
+![image](https://user-images.githubusercontent.com/52088444/233506757-74296eb2-a53e-4647-b1cf-d6511d8587c0.png)
+
+As histórias com linguagem de negócio, sem nenhuma parte técnica.
+
+![image](https://user-images.githubusercontent.com/52088444/233506795-9bbc2c0a-d249-4262-8bab-87a341fbfd7c.png)
+
+Ao facilitar um workshop para escrever histórias, qual sequência é mais apropriada a se seguir?
+![image](https://user-images.githubusercontent.com/52088444/233506964-16cbee78-6e2c-440e-9753-5cb94d9e162b.png)
+
+
+
+
 
 
 
