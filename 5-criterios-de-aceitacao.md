@@ -117,16 +117,25 @@ Ficaram separadas por que senão a User Storie fica muito grande.Eu estou repeti
 
 só estamos cobrindo a parte das estrelas/pontuaçãoes
 
+## Aula Prática: Definindo critérios de aceitação (Exemplo#4)
 
-4m
-Reproduzir
-28. Aula Prática: Definindo critérios de aceitação (Exemplo#4)
-5m
-Reproduzir
-29. Aula Prática: Definindo critérios de aceitação (Exemplo#5)
-6m
-Reproduzir
-30. Dicas para definição de critérios de aceitação
-3m
-Iniciar
-Teste 3: Hora de testar o que aprendeu
+![image](https://user-images.githubusercontent.com/52088444/233700104-394b3ce0-8a7f-456b-9cbd-2f69f0c598c5.png)
+Um banner e um botão, como é um wireframe vamos escrever no BDD
+
+![image](https://user-images.githubusercontent.com/52088444/233700421-a6adf729-25d9-4d58-ba5b-311b9f23621d.png)
+
+## Aula Prática: Definindo critérios de aceitação (Exemplo#5)
+
+![image](https://user-images.githubusercontent.com/52088444/233700487-2372fa45-cd83-4e65-beee-d99388136b5c.png)
+
+![image](https://user-images.githubusercontent.com/52088444/233700946-d8d3a3e0-90b7-46cb-902f-1646c172c8e5.png)
+
+Ele só está analisando o review
+
+## Dicas para definição de critérios de aceitação
+
+![image](https://user-images.githubusercontent.com/52088444/233701268-b9c5fceb-0d89-4603-ba8c-7677ed61ca20.png)
+
+No BDD (Behaviour Driven Development ou Desenvolvimento Orientado a Comportamento), o que “Dado/Quando/Então” quer dizer respectivamente?
+![image](https://user-images.githubusercontent.com/52088444/233701501-58cd4944-7929-4cd2-9dc4-4e3a5671a560.png)
+
