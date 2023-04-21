@@ -82,19 +82,42 @@ Primeiramente toda e qualquer interação do sistema com o usuário como um mous
 
 ## Aula Prática: Definindo critérios de aceitação (Exemplo#1)
 
+Wireframe de uma tela de news
+![image](https://user-images.githubusercontent.com/52088444/233696298-02a2a66e-d9b3-47bd-a5ba-9cf91c8e359d.png)
+
+Os 4 blocos representando os posts de noticias com imagem e descrição, os 3 pontinhos representam o carrosel. Temos um filtro. Abaixo as notícias mais antigas , e a paginação se as listas forem maiores.
+
+![image](https://user-images.githubusercontent.com/52088444/233696794-e72ee27f-61e1-4ca5-b26d-842a9008436b.png)
+Essa história de usuário está cobrindo essa parte.
+
+![image](https://user-images.githubusercontent.com/52088444/233696869-61c42326-ed9c-41cf-bad5-e4775ba08450.png)
 
 
+**Criar critérios de aCeitação usando BDD:
+
+nós temos uma história de usuário e através dela criamsos os critérios de aceitação com todos os cenários que quisermos. Ou seja criamos uma jornada pois a experiência de usuário é diferente em cada dispositivo
+![image](https://user-images.githubusercontent.com/52088444/233698099-464fbcc7-99d2-4758-b76a-7c5c30b74470.png)
+![image](https://user-images.githubusercontent.com/52088444/233698485-37a6fc97-af5b-4ad7-a81f-bb046a365669.png)
+
+**VERIFICAR SE EXISTE DIFERENÇA ENTRE OS COMPORTAMENTOS ENTRE MOBILLE E DESSKTOP, 
 
 
+## Aula Prática: Definindo critérios de aceitação (Exemplo#2)
+![image](https://user-images.githubusercontent.com/52088444/233698756-5c7e9bd5-d642-469a-bf94-ba74cce545cb.png)
+
+Ficaram separadas por que senão a User Storie fica muito grande.Eu estou repetindo as frases por que as histórias precisam ser independentes, mesmo sendo a mesma página, só que seções diferentes.
+
+![image](https://user-images.githubusercontent.com/52088444/233699362-41cdc514-a492-4826-b5f8-cc02bf8f164f.png)
+![image](https://user-images.githubusercontent.com/52088444/233699604-bfac3e6f-f132-4bee-a471-029d3514a1e4.png)
+
+## Aula Prática: Definindo critérios de aceitação (Exemplo#3)
+
+![image](https://user-images.githubusercontent.com/52088444/233699686-d14c9295-b27f-43d8-834a-8d841fc205df.png)
+![image](https://user-images.githubusercontent.com/52088444/233699942-e65bcf93-8ad9-4faf-98d5-8e2ee13f25f9.png)
+
+só estamos cobrindo a parte das estrelas/pontuaçãoes
 
 
-
-22m
-Reproduzir
-26. Aula Prática: Definindo critérios de aceitação (Exemplo#2)
-8m
-Reproduzir
-27. Aula Prática: Definindo critérios de aceitação (Exemplo#3)
 4m
 Reproduzir
 28. Aula Prática: Definindo critérios de aceitação (Exemplo#4)
